@@ -1,0 +1,55 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/jordykirkman/Desktop/Chelsie/dpl/projects_dpl/cars/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/jordykirkman/Desktop/Chelsie/dpl/projects_dpl/cars/app/models/car.rb": [
+        1,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null,
+        1,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        2,
+        null,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1568169145
+  }
+}
